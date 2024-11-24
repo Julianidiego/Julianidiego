@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Julianidiego
+- 👋 Hi Word, I’m @Julianidiego
 - 👀 I’m interested in Programming, Data Science adn Data Analytics
 - 🌱 I’m currently learning SQL, JAVA, JAVASCRIPT, C++, C# and Python!!
 <!--- 
