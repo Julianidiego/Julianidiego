@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
         alt="ORCID iD icon"/>
       https://orcid.org/0009-0003-6275-051X
     </a>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b3e3d80a-7495-4b72-b03b-fc2bda200b07" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
