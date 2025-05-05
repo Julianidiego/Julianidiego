@@ -10,4 +10,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=git,py,flask,c,mysql" />
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Julianidiego&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Estadísticas de GitHub de Julianidiego" />
