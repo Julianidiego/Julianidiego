@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianidiego&layout=compact&count_private=true&theme=merko" alt="Lenguajes más usados de Julianidiego" />
   </a>
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julianidiego)](https://git.io/streak-stats)
