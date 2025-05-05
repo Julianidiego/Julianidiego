@@ -5,6 +5,12 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Contador de visitas](https://komarev.com/ghpvc/?username=Julianidiego&base=1000)
 [![committers.top badge](https://user-badge.committers.top/argentina/Julianidiego.svg)](https://user-badge.committers.top/argentina/Julianidiego)
+![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianidiego&layout=compact&theme=dracula)
+![Contador de visitantes](https://visitor-badge.glitch.me/badge?page_id=Julianidiego)
+![Un GIF divertido](https://media.giphy.com/media/giphy_id.gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianidiego/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julianidiego_/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JulianiDiego_)
 
 <p align="center">
   <a href="https://skillicons.dev">
