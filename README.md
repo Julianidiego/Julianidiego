@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Contador de visitas](https://komarev.com/ghpvc/?username=Julianidiego&base=1000)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julianidiego)](https://git.io/streak-stats)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
