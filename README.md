@@ -4,6 +4,7 @@ Julianidiego/Julianidiego is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ![Contador de visitas](https://komarev.com/ghpvc/?username=Julianidiego&base=1000)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=julianidiego)](https://github.com/ryo-ma/github-profile-trophy)
 
 
