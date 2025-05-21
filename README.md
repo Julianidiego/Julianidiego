@@ -14,4 +14,5 @@ You can click the Preview link to take a look at your changes.
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianidiego&layout=compact&count_private=true&theme=merko" alt="Lenguajes más usados de Julianidiego" />
   </a>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=julianidiego)](https://github.com/ryo-ma/github-profile-trophy)
 
