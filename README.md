@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # ¡Hola! Soy Diego Hernán Juliani. Bienvenido a mi GitHub.
+# 👨‍🚒 Volunteer Firefighter | 🐍 Python Developer | 🕸️ Taking my first steps in Web Development (HTML, CSS, Javascript)
 <p align="center">
   <a href="https://github.com/Julianidiego">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Julianidiego&include_all_commits=true&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Julianidiego" />
