@@ -17,7 +17,7 @@ I am not currently using my Upwork account, so I am neither available nor intere
 
 ### 🛡️ Verified Professional Channels
 To ensure you are speaking with me, only use these links:
-* **LinkedIn:** [linkedin.com/in/diego-hernan-juliani](www.linkedin.com/in/julianidiego)
+* **LinkedIn:** [linkedin.com/in/linkedin.com/in/julianidiego](www.linkedin.com/in/julianidiego)
 * **GitHub Official:** [github.com/Julianidiego](https://github.com/Julianidiego)
   
 
