@@ -3,13 +3,15 @@
 Julianidiego/Julianidiego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm Diego (Dingo) 👋
+# Hi there, I'm Diego 👋
 
 > [!CAUTION]
 > ## ⚠️ SECURITY ALERT / AVISO DE SEGURIDAD
-> **ENG:** This is my **ACADEMIC/UNIVERSITY** GitHub profile. If you were contacted via any social media (Twitter, X, Instagram, etc.) other than my official **LinkedIn** and shown this profile, **someone is trying to scam you**. I do not use social media for work purposes. Please be careful.
+> **ENG:** This is my **ACADEMIC/UNIVERSITY** GitHub profile. If you were contacted via any social media (Twitter (X), Instagram, etc.) other than my official **LinkedIn** and shown this profile, **someone is trying to scam you**. I do not use social media for work purposes, much less the ones mentioned above.
+I am not currently using my Upwork account, so I am neither available nor interested in doing freelance work on that platform.
+> Please be careful.
 >
-> **ESP:** Este es mi perfil de GitHub **ACADÉMICO/UNIVERSITARIO**. Si fuiste contactado por cualquier red social que no sea mi **LinkedIn** oficial y te mostraron este perfil, **están intentando estafarte**. No uso redes sociales para trabajar. Ten cuidado.
+> **ESP:** Este es mi perfil de GitHub **ACADÉMICO/UNIVERSITARIO**. Si fuiste contactado por cualquier red social que no sea mi **LinkedIn** oficial y te mostraron este perfil, **están intentando estafarte**. No uso redes sociales para trabajar, mucho menos las antes mencionadas. Actualmente no estoy usando mi cuenta de Upwork, por lo que no estoy disponible ni interesado en realizar trabajos freelance en dicha plataforma.Ten cuidado.
 
 ---
 
@@ -21,19 +23,15 @@ To ensure you are speaking with me, only use these links:
 ---
 
 ### 🎓 About Me
-I am a **Software Development student** at **UNLP** (Universidad Nacional de La Plata) and a **Volunteer Firefighter**. My focus is on building secure and efficient web solutions.
+I am a **Software Development student** at **UNLP** (Universidad Nacional de La Plata) and a **Volunteer Firefighter**. My focus is on building secure and efficient solutions.
 
-* 💻 **Currently learning:** Advanced Web Development & Cybersecurity.
-* 🛠️ **Systems:** Ubuntu User | Passionate about Data Analysis.
-* 🎖️ **Background:** Former Microsoft Student Ambassador with 270+ tech credentials.
-* ✍️ **Interests:** Calligraphy, Literature (Cortázar), and Mathematics.
+* 💻 **Currently learning:** Computer science, algorithms, and mathematics.
 
 ### 🚀 Tech Stack & Tools
 | Area | Technologies |
 | :--- | :--- |
-| **Development** | HTML5, CSS3, JavaScript, Web Dev Tools |
-| **Data & Security** | Python, Cybersecurity Fundamentals, Data Analysis |
-| **Tools** | Linux (Ubuntu), Git, GitHub, Google Sheets (Apps Script) |
+| **Development** | Python, C++, Java, Pascal, HTML5, CSS3, JavaScript, Web Dev Tools |
+| **Data & Security** | Python, Microsoft Excel, Cybersecurity Fundamentals, Data Analysis, Data Science |
 
 ---
 
