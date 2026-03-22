@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 
 > [!CAUTION]
 > ## ⚠️ SECURITY ALERT / AVISO DE SEGURIDAD
-> **ENG:** This is my **ACADEMIC/UNIVERSITY** GitHub profile. If you were contacted via any social media (Twitter (X), Instagram, etc.) other than my official **LinkedIn** and shown this profile, **someone is trying to scam you**. I do not use social media for work purposes, much less the ones mentioned above.
+> **ENG:** This is my **ACADEMIC/UNIVERSITY** GitHub profile. If you were contacted via any social media (Twitter (X), Instagram, etc.) other than my official **LinkedIn** and shown this profile, **be careful**. I do not use social media for work purposes, much less the ones mentioned above.
 I am not currently using my Upwork account, so I am neither available nor interested in doing freelance work on that platform.
 > Please be careful.
 >
-> **ESP:** Este es mi perfil de GitHub **ACADÉMICO/UNIVERSITARIO**. Si fuiste contactado por cualquier red social que no sea mi **LinkedIn** oficial y te mostraron este perfil, **están intentando estafarte**. No uso redes sociales para trabajar, mucho menos las antes mencionadas. Actualmente no estoy usando mi cuenta de Upwork, por lo que no estoy disponible ni interesado en realizar trabajos freelance en dicha plataforma.Ten cuidado.
+> **ESP:** Este es mi perfil de GitHub **ACADÉMICO/UNIVERSITARIO**. Si fuiste contactado por cualquier red social que no sea mi **LinkedIn** oficial y te mostraron este perfil, **cuidado**. No uso redes sociales para trabajar, mucho menos las antes mencionadas. Actualmente no estoy usando mi cuenta de Upwork, por lo que no estoy disponible ni interesado en realizar trabajos freelance en dicha plataforma.
 
 ---
 
