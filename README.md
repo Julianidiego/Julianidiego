@@ -4,7 +4,7 @@ Julianidiego/Julianidiego is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Diego 👋
-
+![Logo de Julianidiego](logo-astronauta.jpg)
 > [!CAUTION]
 > ## ⚠️ SECURITY ALERT / AVISO DE SEGURIDAD
 > **ENG:** This is my **ACADEMIC/UNIVERSITY** GitHub profile. If you were contacted via any social media (Twitter (X), Instagram, etc.) other than my official **LinkedIn** and shown this profile, **be careful**. I do not use social media for work purposes, much less the ones mentioned above.
